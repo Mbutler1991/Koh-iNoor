@@ -1,5 +1,7 @@
 # History of the Koh-i-Noor
 
+![Am I Responsive](https://github.com/Mbutler1991/Koh-iNoor/blob/master/assets/Screenshots/am-i-responsive.png)
+
 This project was made in HTML and CSS to showcase the history and the wherabouts of the koh-i-noor diamond. The target audience of this website is an educational or general interest audience.
 
 ## Wireframe
@@ -86,6 +88,8 @@ Top middle rectangle is header and navbar and bottom rectangle is footer. All ot
 
 I have tested this webpage using W3C validator for HTML and Jigsaw validator for CSS.
 I encountered one bug on the submittedform.html page when trying to redirect back to homepage after 10 seconds, I could not make it work on all browsers, when looking for fixes I found that W3C deprecate this practice so I removed this code entirely.
+I tested this for accessibility across multiple different browsers and used Google Dev tools to check accross devices.
+I also used Wave to check for contrast and errors and found no errors and a contrast ratio of 8.59:1
 
 ### Validator Testing
 
@@ -102,3 +106,24 @@ I encountered one bug on the submittedform.html page when trying to redirect bac
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
 The live link can be found here - (https://mbutler1991.github.io/Koh-iNoor/)
+
+## Credits
+
+### Content
+
+The content for this website was taken from WikiPedia, the smithsonian magazine, britannica and worldhistory.org. The information was paraphrased after studying a combination of these sources.
+
+### Media
+
+Images and videos came from a number of different sources
+ - Favicon from www.flaticon.com created by Vectors Market
+ - Images from BBC, Wikipedia, Giphy, www.maharajaranjitsingh.com, www.alshindagah.com and Reddit.
+ - Videos, YouTube video from NBC 
+
+### Code
+
+All code in this website is my own to the best of my knowledge, under the guidance of my mentor Lauren-Nicole Popich.
+
+## Thanks
+
+I would like to give recognition to my fantastic mentor Lauren-Nicole Popich for her help with and guidance on this project and to my life partner Nikita Ellison for keeping me grounded, advising me to step away when needed and ensuring I took care of myself as I got lost in the code.
