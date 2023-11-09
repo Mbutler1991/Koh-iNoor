@@ -87,9 +87,13 @@ Top middle rectangle is header and navbar and bottom rectangle is footer. All ot
 ## Testing
 
 I have tested this webpage using W3C validator for HTML and Jigsaw validator for CSS.
-I encountered one bug on the submittedform.html page when trying to redirect back to homepage after 10 seconds, I could not make it work on all browsers, when looking for fixes I found that W3C deprecate this practice so I removed this code entirely.
 I tested this for accessibility across multiple different browsers and used Google Dev tools to check accross devices.
 I also used Wave to check for contrast and errors and found no errors and a contrast ratio of 8.59:1
+
+### Bugs
+
+I encountered one bug on the submittedform.html page when trying to redirect back to homepage after 10 seconds, I could not make it work on all browsers, when looking for fixes I found that W3C deprecate this practice so I removed this code entirely.
+I encountered one bug on my index page where the image for the timeline was saving to GitHub as 'Timeline.png' instead of 'timeline.png' no matter what I tried, including deleting, redownloading and pushing the image to no avail. Got assistance from Slack community to fix by renaming as an entirely different name and then changing name back. This worked and bug has been fixed.
 
 ### Validator Testing
 
