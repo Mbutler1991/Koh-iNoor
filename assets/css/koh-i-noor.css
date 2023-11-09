@@ -133,19 +133,17 @@ label, input, select, textarea {
     font-family: 'Glass Antiqua', cursive;
     font-size: 100%;
     line-height: normal;
-    display: inline-block;
 }
 
 input, textarea, select {
-    
-    border: 1px solid #000000;
-    display: inline-block;
+    border: 0.1em solid #000000;
     padding: 0.5em;
     width: 14em;
 }
 
 textarea {
     overflow: auto;
+    height: 6em;
 }
 
 select {
@@ -154,7 +152,7 @@ select {
 }
 
     /*images and videos*/
-    #timeline, #noor2, #noor3, #vid1 {
+    #timeline, #noor2, #noor3, #ship-sailing, #vid1 {
     width: 60vw;
     height: auto;
     margin-left: auto;
