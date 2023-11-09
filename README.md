@@ -65,3 +65,19 @@ Top middle rectangle is header and navbar and bottom rectangle is footer. All ot
 - This page strays a small amount from the basic layout as it has no pictures or videos. It also has no paragraphs of information as this is not an informative page.
 
 ![Contact Us](https://github.com/Mbutler1991/Koh-iNoor/blob/master/assets/Screenshots/contact-us.png)
+
+- __Thank You__
+
+- This page is where you are redirected to after hitting submit on the contact us form, this is the only link to this page.
+- This page has a few short sentences thanking the user for contacting us and lets them know as it is a voluntary page we can't gaurentee quick responses.
+- It is then followed with a gif from Giphy of a ship sailing to represent East India Trading Company delivering the users message
+
+![Thank You](https://github.com/Mbutler1991/Koh-iNoor/blob/master/assets/Screenshots/thank-you.png)
+
+- __Footer__
+
+- The footer is at the bottom of every page.
+- It contains information regarding Author, reasons for the design and when it was most recently updated.
+- It also has a link to the Koh-i-Noor wikipedia page for more information and this link opens in another tab.
+
+![Footer](https://github.com/Mbutler1991/Koh-iNoor/blob/master/assets/Screenshots/footer.png)
