@@ -27,3 +27,11 @@ Top middle rectangle is header and navbar and bottom rectangle is footer. All ot
 
 ![Landing Page](https://github.com/Mbutler1991/Koh-iNoor/blob/master/assets/Screenshots/landing-page.png)
 ![timeline](https://github.com/Mbutler1991/Koh-iNoor/blob/master/assets/Screenshots/timeline.png)
+
+- __Legendary History__
+
+- This page showcases some information about the potential beginnings of the diamond.
+- There is also a video added with a further breakdown.
+- This page has a few short paragraphs detailing the potential whereabouts of the diamond before first recorded sightings.
+
+![Legendary History](https://github.com/Mbutler1991/Koh-iNoor/blob/master/assets/Screenshots/legendary.png)
