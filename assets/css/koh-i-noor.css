@@ -30,9 +30,9 @@ footer {
     text-align: center;
 }
 
-    footer > p {
-        background-color: rgba(252, 252, 252, 0.85);
-    }
+footer > p {
+    background-color: rgba(252, 252, 252, 0.85);
+}
 
 p {
     font-family: 'Glass Antiqua', cursive;
@@ -47,16 +47,16 @@ h1 {
 .navbar {
     overflow: hidden;
     max-width: 100%;
-	left: 0;
+    left: 0;
     width: 100%;
     font-size: 3vh;
-	text-align: center;
+    text-align: center;
 }
 
 .navbar a {
     display: inline-block;
     background-color: darkgray;
-	position: inherit;
+    position: inherit;
     color: #000000;
     padding: 0.8vh 0.8vw;
     text-decoration: none;
@@ -78,7 +78,7 @@ span a {
     width: 14vw;
     height: auto;
     border-radius: 20%;
-	margin-top: 2vh;
+    margin-top: 2vh;
     display: inline;
 }
 
@@ -89,12 +89,12 @@ span a {
 .column1, .column3 {
     width: 20%;
     height: 10%;
-	display: inline;
+    display: inline;
 }
 
 .column2 {
     width: 60%;
-	display: inline-block;
+    display: inline-block;
 }
 
 /*main paragraphs of the page*/
@@ -108,13 +108,13 @@ span a {
 
 /*subheadings*/
 .sub {
-	background-color: #000000;
-	color: #ffffff;
-	height: 10%;
-	width: 80%;
+    background-color: #000000;
+    color: #ffffff;
+    height: 10%;
+    width: 80%;
     margin-left: 10%;
     margin-right: 10%;
-	text-align: center;
+    text-align: center;
 }
 
 /*Layout and style for form*/
@@ -161,6 +161,6 @@ select {
 }
 
 #vid1 {
-	border: solid #C0C0C0;
+    border: solid #C0C0C0;
     border-radius: 10%;
 }
