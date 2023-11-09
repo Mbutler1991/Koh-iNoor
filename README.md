@@ -81,3 +81,24 @@ Top middle rectangle is header and navbar and bottom rectangle is footer. All ot
 - It also has a link to the Koh-i-Noor wikipedia page for more information and this link opens in another tab.
 
 ![Footer](https://github.com/Mbutler1991/Koh-iNoor/blob/master/assets/Screenshots/footer.png)
+
+## Testing
+
+I have tested this webpage using W3C validator for HTML and Jigsaw validator for CSS.
+I encountered one bug on the submittedform.html page when trying to redirect back to homepage after 10 seconds, I could not make it work on all browsers, when looking for fixes I found that W3C deprecate this practice so I removed this code entirely.
+
+### Validator Testing
+
+ - HTML
+  - No errors returned on any page when running through the official [W3C Validator]
+ - CSS
+  - No errors returned when running through the official [Jigsaw Validator]
+
+## Deployment 
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the GitHub repository, navigate to the Settings tab 
+  - From the source section drop-down menu, select the Master Branch
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+
+The live link can be found here - (https://mbutler1991.github.io/Koh-iNoor/)
