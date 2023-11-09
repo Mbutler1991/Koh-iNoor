@@ -30,6 +30,10 @@ footer {
     text-align: center;
 }
 
+    footer > p {
+        background-color: rgba(252, 252, 252, 0.85);
+    }
+
 p {
     font-family: 'Glass Antiqua', cursive;
     font-size: 140%;
@@ -113,8 +117,44 @@ span a {
 	text-align: center;
 }
 
-/*images and videos*/
-#timeline, #noor2, #noor3, #vid1 {
+/*Layout and style for form*/
+form {
+    margin: 2em;
+}
+
+label {
+    color: #000000;
+    float: left;
+    text-align: left;
+    width: 24em;
+}
+
+label, input, select, textarea {
+    font-family: 'Glass Antiqua', cursive;
+    font-size: 100%;
+    line-height: normal;
+    display: inline-block;
+}
+
+input, textarea, select {
+    
+    border: 1px solid #000000;
+    display: inline-block;
+    padding: 0.5em;
+    width: 14em;
+}
+
+textarea {
+    overflow: auto;
+}
+
+select {
+    height: auto;
+    line-height: 5em;
+}
+
+    /*images and videos*/
+    #timeline, #noor2, #noor3, #vid1 {
     width: 60vw;
     height: auto;
     margin-left: auto;
