@@ -6,7 +6,7 @@ This project was made in HTML and CSS to showcase the history and the wherabouts
 
 Wireframe was created with Balsamiq and some changes have been made since this stage
 
-![Wireframe](https://github.com/Mbutler1991/Koh-iNoor/blob/master/Wireframe/Wireframe1.bmpr) 
+![Wireframe](https://github.com/Mbutler1991/Koh-iNoor/blob/master/assets/Screenshots/wireframe.png) 
 
 ## Features 
 
