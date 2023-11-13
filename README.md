@@ -109,10 +109,12 @@ I tested this for accessibility across multiple different browsers and used Goog
 I checked this on screens ranging from 320 to 1980 pixels.
 
 I also used Wave to check for contrast and errors and found no errors and a contrast ratio of 8.59:1 on index.html, legendaryhistory.html, earlyhistory.html, britishownership.html, contactus.html and thankyou.html. 
+
 ![Wave1](https://github.com/Mbutler1991/Koh-iNoor/blob/master/assets/Screenshots/wave.png)
 ![Wave2](https://github.com/Mbutler1991/Koh-iNoor/blob/master/assets/Screenshots/wave2.png)
 
 I also used lighthouse to test and got a high score across all metrics.
+
 ![Lighthouse](https://github.com/Mbutler1991/Koh-iNoor/blob/master/assets/Screenshots/lighthouse.png)
 
 ### Bugs
@@ -124,9 +126,11 @@ I encountered one bug on my index page where the image for the timeline was savi
 
  - HTML
   - No errors returned on any page when running through the official [W3C Validator] tested all HTML pages.
+  - 
 ![W3C](https://github.com/Mbutler1991/Koh-iNoor/blob/master/assets/Screenshots/w3c.png)
  - CSS
   - No errors returned when running through the official [Jigsaw Validator]
+  - 
 ![Jigsaw](https://github.com/Mbutler1991/Koh-iNoor/blob/master/assets/Screenshots/jigsaw.png)
 
 ## Deployment 
