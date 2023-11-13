@@ -31,7 +31,7 @@ Top middle rectangle is header and navbar and bottom rectangle is footer. All ot
 - This has links to every page except for the thank you page as this can only be reached through the form submit button.
 - The navbar is fully responsive and should still look good on any screen size.
   
-![Nav Bar](https://github.com/Mbutler1991/Koh-iNoor/blob/master/assets/Screenshots/navmenu.png)
+![Nav Bar](assets/Screenshots/navmenu.png)
 
 - __Landing Page__
 
