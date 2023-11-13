@@ -152,7 +152,7 @@ select {
 }
 
     /*images and videos*/
-    #timeline, #noor2, #noor3, #ship-sailing, #vid1 {
+#timeline, #noor2, #noor3, #ship-sailing, #vid1 {
     width: 60vw;
     height: auto;
     margin-left: auto;
