@@ -4,6 +4,17 @@
 
 This project was made in HTML and CSS to showcase the history and the wherabouts of the koh-i-noor diamond. The target audience of this website is an educational or general interest audience.
 
+This website is aimed at students studying History looking to broaden their knowledge or history lovers typically above 45 who are curious about artifacts. Also suited to diamond lovers and history buffs of all ages.
+
+This website can be used in an educational setting as the information although non exhaustive, accurately portrays the whereabouts of the Koh-i-Noor from before its first recorded sighting up to its current whereabouts.
+
+## User Stories
+
+- As a student, I can research and access information regarding the Koh-i-Noor diamond, so that I can reference it in my research and can use the contact us page to suggest changes and learn more.
+- As a historian, I can view the timeline of the Koh-i-Noor so that I can refine my own knowledge.
+- As a  hobbyist, I can navigate the pages easily so that I can find the information I want without too much time.
+
+
 ## Wireframe
 
 Wireframe was created with Balsamiq and some changes have been made since this stage
