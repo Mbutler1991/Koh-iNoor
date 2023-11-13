@@ -31,7 +31,7 @@ Top middle rectangle is header and navbar and bottom rectangle is footer. All ot
 - This has links to every page except for the thank you page as this can only be reached through the form submit button.
 - The navbar is fully responsive and should still look good on any screen size.
   
-![Nav Bar](https://github.com/Mbutler1991/Koh-iNoor/blob/master/assets/Screenshots/Screenshot%202023-11-09%20154212.png)
+![Nav Bar](https://github.com/Mbutler1991/Koh-iNoor/blob/master/assets/Screenshots/navmenu.png)
 
 - __Landing Page__
 
@@ -98,8 +98,22 @@ Top middle rectangle is header and navbar and bottom rectangle is footer. All ot
 ## Testing
 
 I have tested this webpage using W3C validator for HTML and Jigsaw validator for CSS.
-I tested this for accessibility across multiple different browsers and used Google Dev tools to check accross devices.
-I also used Wave to check for contrast and errors and found no errors and a contrast ratio of 8.59:1
+
+All interactions on the web page have also been tested on multiple devices and all work as expected.
+
+All navigational links work to take you to the correct pages and external links take you to the correct page in a new tab.
+
+The contact us form will only work using valid information patterns such as correct format for email and if valid information entered it takes you to the correct thank you page, tested multiple times on multiple devices.
+
+I tested this for accessibility across multiple different browsers and used Google Dev tools to check accross devices. I used google dev tools and resized by hand to every possible dimension to ensure website still looked good and also used a screenshot from Am I Responsive to ensure page scaled well across all device sizes, please see screenshot on top of file.
+I checked this on screens ranging from 320 to 1980 pixels.
+
+I also used Wave to check for contrast and errors and found no errors and a contrast ratio of 8.59:1 on index.html, legendaryhistory.html, earlyhistory.html, britishownership.html, contactus.html and thankyou.html. 
+![Wave1](https://github.com/Mbutler1991/Koh-iNoor/blob/master/assets/Screenshots/wave.png)
+![Wave2](https://github.com/Mbutler1991/Koh-iNoor/blob/master/assets/Screenshots/wave2.png)
+
+I also used lighthouse to test and got a high score across all metrics.
+![Lighthouse](https://github.com/Mbutler1991/Koh-iNoor/blob/master/assets/Screenshots/lighthouse.png)
 
 ### Bugs
 
@@ -109,13 +123,18 @@ I encountered one bug on my index page where the image for the timeline was savi
 ### Validator Testing
 
  - HTML
-  - No errors returned on any page when running through the official [W3C Validator]
+  - No errors returned on any page when running through the official [W3C Validator] tested all HTML pages.
+![W3C](https://github.com/Mbutler1991/Koh-iNoor/blob/master/assets/Screenshots/w3c.png)
  - CSS
   - No errors returned when running through the official [Jigsaw Validator]
+![Jigsaw](https://github.com/Mbutler1991/Koh-iNoor/blob/master/assets/Screenshots/jigsaw.png)
 
 ## Deployment 
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+  - I created a repository using GitHub repositories and the CI template.
+  - I opened it in my preferred IDE (VS Code) to write the code.
+  - I added all commits through the git change tab and also used this tab for pulling and pushing to my master branch.
   - In the GitHub repository, navigate to the Settings tab 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
