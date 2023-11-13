@@ -15,10 +15,11 @@ body {
     background: url("../images/map.jpg") no-repeat center center/cover;
     color: #000000;
     text-align: center;
+    padding: 5px;
 }
 
 main {
-    padding-bottom: 2em;
+    padding-bottom: 5px;
     margin-left: 20%;
     margin-right: 20%;
     display: inline-block;
@@ -37,6 +38,7 @@ footer > p {
 p {
     font-family: 'Glass Antiqua', cursive;
     font-size: 140%;
+    padding: 8px;
 }
 
 h1 {
@@ -104,6 +106,7 @@ span a {
     margin-left: 10%;
     margin-right: 10%;
     display: inline;
+    padding: 5px;
 }
 
 /*subheadings*/
@@ -163,4 +166,21 @@ select {
 #vid1 {
     border: solid #C0C0C0;
     border-radius: 10%;
+}
+
+@media screen and (max-width: 650px) {
+    .left {
+        text-align: center;
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+        display: relative;
+    }
+
+    .sub {
+        height: 10%;
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
 }
